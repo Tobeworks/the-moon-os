@@ -426,8 +426,6 @@ def push_release(release_path: str, preview_only: bool = False):
         tracks_out.append({
             "number":  num,
             "title":   t.get('title', ''),
-            "bpm":     t.get('bpm', ''),
-            "key":     t.get('key', ''),
             "runtime": t.get('runtime', ''),
             "url":     find_url(primary_audio,   num),   # 128k for web player
             "url_320": find_url(secondary_audio, num),   # 320k for download

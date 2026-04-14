@@ -20,4 +20,4 @@ chmod +x pg
 
 echo ""
 echo "✓ Setup complete."
-echo "  Usage: ./tools/pg validate <release-folder-path>"
+echo "  Usage: ./tools/tmr validate <release-folder-path>"

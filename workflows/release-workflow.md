@@ -26,7 +26,7 @@ releases/
 ./pg generate releases/pg-NNN-artist-title
 
 # Metadaten in release.json ausfüllen:
-# artist, title, label, catalog, genre, bpm, key, tracklist
+# artist, title, label, catalog, genre, tracklist
 
 # Validieren + release.md Draft generieren
 ./pg validate releases/pg-NNN-artist-title --generate-md
@@ -77,7 +77,6 @@ releases/
 3. Cover aus `artwork/` hochladen
 4. Metadaten aus `release.json` übertragen:
    - Title, Artist, Label, Catalog Number
-   - BPM, Key im Description-Feld
    - Release-Datum setzen
 5. Preis setzen (oder "Name your price")
 6. Als Draft speichern → Review → Publish

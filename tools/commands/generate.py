@@ -168,4 +168,4 @@ def generate_release(release_path: str):
     for f in manual_fields:
         warn(f)
 
-    print(f"\n  {Fore.GREEN}{Style.BRIGHT}Done. Edit release.json then run: ./tools/pg validate{Style.RESET_ALL}\n")
+    print(f"\n  {Fore.GREEN}{Style.BRIGHT}Done. Edit release.json then run: ./tools/tmr validate{Style.RESET_ALL}\n")

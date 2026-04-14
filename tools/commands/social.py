@@ -279,7 +279,7 @@ def init_social_config(path: Path, release_data: dict):
         json.dump(config, f, indent=2)
     ok(f"social.json written → {out}")
     info("Edit start/duration/title_override per track, then run:")
-    info(f"  ./tools/pg social {path}")
+    info(f"  ./tools/tmr social {path}")
 
 
 def load_social_config(path: Path) -> dict:

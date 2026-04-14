@@ -1,11 +1,69 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-04-14T11:21:30.279809+00:00",
+    "generated": "2026-04-14T13:30:03.246937+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
   "releases": [
+    {
+      "catalog": "TMR-003",
+      "artist": "Logic Moon",
+      "title": "Atlas",
+      "format": "Digital EP",
+      "year": "",
+      "genre": "",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.webp"
+        }
+      },
+      "bandcamp": "",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Logic Moon   Atlas",
+          "bpm": "",
+          "key": "",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/01_logic_moon_atlas.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/01_logic_moon_atlas.mp3"
+        },
+        {
+          "number": 2,
+          "title": "Logic Moon   Emeril Fields",
+          "bpm": "",
+          "key": "",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/02_logic_moon_emeril_fields.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/02_logic_moon_emeril_fields.mp3"
+        },
+        {
+          "number": 3,
+          "title": "Logic Moon   Magno Gold",
+          "bpm": "",
+          "key": "",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/03_logic_moon_magno_gold.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/03_logic_moon_magno_gold.mp3"
+        }
+      ],
+      "pushed_at": "2026-04-14T13:30:03.246691+00:00"
+    },
     {
       "catalog": "TMR-011",
       "artist": "Logic Moon",
@@ -487,64 +545,6 @@
         }
       ],
       "pushed_at": "2026-04-14T11:13:35.664352+00:00"
-    },
-    {
-      "catalog": "TMR-003",
-      "artist": "Logic Moon",
-      "title": "Atlas",
-      "format": "Digital EP",
-      "year": "",
-      "genre": "",
-      "cover": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
-      "artwork": {
-        "1500": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.webp"
-        },
-        "300": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.webp"
-        },
-        "3000": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.webp"
-        },
-        "600": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.webp"
-        }
-      },
-      "bandcamp": "",
-      "tracks": [
-        {
-          "number": 1,
-          "title": "Logic Moon   Atlas",
-          "bpm": "",
-          "key": "",
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/01_logic_moon_atlas.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/01_logic_moon_atlas.mp3"
-        },
-        {
-          "number": 2,
-          "title": "Logic Moon   Emeril Fields",
-          "bpm": "",
-          "key": "",
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/02_logic_moon_emeril_fields.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/02_logic_moon_emeril_fields.mp3"
-        },
-        {
-          "number": 3,
-          "title": "Logic Moon   Mango Gold",
-          "bpm": "",
-          "key": "",
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/03_logic_moon_mango_gold.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/03_logic_moon_mango_gold.mp3"
-        }
-      ],
-      "pushed_at": "2026-04-14T11:12:15.469474+00:00"
     },
     {
       "catalog": "TMR-002",

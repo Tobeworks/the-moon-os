@@ -1,8 +1,260 @@
 {
   "_meta": {
-    "generated": "2026-04-12T00:00:00.000000+00:00",
+    "generated": "2026-04-14T00:00:00.000000+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
-  "releases": []
+  "releases": [
+    {
+      "catalog": "TMR-011",
+      "artist": "Logic Moon",
+      "title": "Clockworks",
+      "format": "Digital EP",
+      "year": "2026",
+      "genre": "Ambient / Drone",
+      "about": "These two tracks mark another turning point for me, not in the sense of perfection achieved, but in the sense of clarity found. They brought me closer to the sound I've been reaching for: a vision of what my music should feel like, not just only what it should sound like.\n\nTo the casual listener, this may be two ambient pieces. To me, it's another step along a path I've been walking for years, toward something harder to name but easier to feel. I'm coming closer!\n\nListen closely. The details are there for those who seek them.",
+      "credits": "Mixed and mastered by Tobias Lorsbach",
+      "tags": ["ambient", "drone", "soundscape", "tape"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/clockworks",
+      "cover": "https://f4.bcbits.com/img/a3349553712_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a3349553712_10.jpg", "webp": "https://f4.bcbits.com/img/a3349553712_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a3349553712_10.jpg", "webp": "https://f4.bcbits.com/img/a3349553712_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "The Last Of Us", "runtime": "5:14", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Clockwork",      "runtime": "3:42", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-010",
+      "artist": "Logic Moon",
+      "title": "It May Never Coming Back",
+      "format": "Digital EP",
+      "year": "2026",
+      "genre": "Ambient / Drone / Neoclassical",
+      "about": "",
+      "credits": "",
+      "tags": ["ambient", "cinematic soundscape", "drone", "neoclassical"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back",
+      "cover": "https://f4.bcbits.com/img/a4016680440_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a4016680440_10.jpg", "webp": "https://f4.bcbits.com/img/a4016680440_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a4016680440_10.jpg", "webp": "https://f4.bcbits.com/img/a4016680440_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "It May Never Coming Back", "runtime": "5:30", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "D4RK",                     "runtime": "5:03", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 3, "title": "SHDWS",                    "runtime": "4:59", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-009",
+      "artist": "Aethery Fields",
+      "title": "hello.",
+      "format": "Digital Album",
+      "year": "2025",
+      "genre": "Ambient / Lo-Fi",
+      "about": "Hello. I am Aethery Fields.\n\nThere are moments when time seems to stand still. Instants when fog settles over a landscape and contours blur. \"hello.\" is such a moment, captured in sound, preserved like a fading Polaroid whose edges are already dissolving.\n\nAfter a distant time in the shadows, sailing the cinematic seas of Dark Ambient and Soundscape with my moniker \"Logic Moon\", I felt the need to give my brighter side more space. Aethery Fields was born, not as an escape, but as a complement. A place where light penetrates through the mist, where silence is not empty but filled with fleeting impressions.\n\n25 piece limited vinyl: https://elasticstage.com/aethery-fields/releases/hello-album",
+      "credits": "",
+      "tags": ["ambient", "drone", "lofi", "soundscapes", "tape"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/hello",
+      "cover": "https://f4.bcbits.com/img/a3518911398_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a3518911398_10.jpg", "webp": "https://f4.bcbits.com/img/a3518911398_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a3518911398_10.jpg", "webp": "https://f4.bcbits.com/img/a3518911398_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1,  "title": "Still",         "runtime": "4:48", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2,  "title": "Hello",          "runtime": "3:51", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 3,  "title": "Song1",          "runtime": "4:57", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 4,  "title": "Memo",           "runtime": "2:34", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 5,  "title": "Soul Searching", "runtime": "3:36", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 6,  "title": "Tapone",         "runtime": "3:53", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 7,  "title": "Fall",           "runtime": "3:11", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 8,  "title": "Wounds",         "runtime": "3:46", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 9,  "title": "Morning Waves",  "runtime": "4:04", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 10, "title": "Poets",          "runtime": "3:15", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-008",
+      "artist": "Aethery Fields",
+      "title": "スライン",
+      "format": "Digital Single",
+      "year": "2025",
+      "genre": "Ambient / Drone",
+      "about": "The born of my sub project \"Aethery Fields\".\n\nAs an ambient artist, I've always been fascinated by the subtle variations in mood and atmosphere that different tracks can evoke. While Logic Moon represents my core sound and identity, which has evolved significantly toward dark ambient, soundscapes and deeper stuff over the past 2 years, I found myself creating pieces that demanded their own space — tracks with different impressions, textures, and emotional landscapes that deserved to be categorized and experienced separately.\n\nAethery Fields was born from this need to better organize and present these varied musical expressions.",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes", "tape music"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/-",
+      "cover": "https://f4.bcbits.com/img/a3031305213_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a3031305213_10.jpg", "webp": "https://f4.bcbits.com/img/a3031305213_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a3031305213_10.jpg", "webp": "https://f4.bcbits.com/img/a3031305213_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "スライン", "runtime": "10:00", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-007",
+      "artist": "Logic Moon",
+      "title": "Reminiscence",
+      "format": "Digital EP",
+      "year": "2025",
+      "genre": "Ambient / Neoclassical",
+      "about": "With this short EP I return to neoclassical territory after exploring darker, drone-heavy sounds in my recent releases. The cello takes center stage this time, weaving through my signature ambient textures and creating contemplative soundscapes that meditate on transience and the fleeting nature of moments.\n\nDespite this shift toward the organic, I've kept the core elements that define my sound intact. \"Reminiscence\" invites listeners to reflect on impermanence — a natural evolution that captures the bittersweet beauty of things that pass.",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/reminiscence",
+      "cover": "https://f4.bcbits.com/img/a1259889284_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a1259889284_10.jpg", "webp": "https://f4.bcbits.com/img/a1259889284_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a1259889284_10.jpg", "webp": "https://f4.bcbits.com/img/a1259889284_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "On",           "runtime": "3:41", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Reminiscence", "runtime": "4:02", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-006",
+      "artist": "Logic Moon",
+      "title": "Heim",
+      "format": "Digital EP",
+      "year": "2025",
+      "genre": "Ambient / Drone",
+      "about": "Sometimes, things happen that you couldn't foresee. The story behind these tracks is that I had actually forgotten about them, and while cleaning up, I stumbled upon these pieces made in 2023. Well, I just remastered them and here they are now, seeing the light of day years later.\n\nMusically, it leans again towards neoclassicism, orchesdrone, guitar and cello here. But actually, it's very subtle and my signature sound is very present. Just listen for yourself.",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/heim",
+      "cover": "https://f4.bcbits.com/img/a2896173050_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a2896173050_10.jpg", "webp": "https://f4.bcbits.com/img/a2896173050_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a2896173050_10.jpg", "webp": "https://f4.bcbits.com/img/a2896173050_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "Helheim", "runtime": "4:24", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Alfheim", "runtime": "4:49", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-005",
+      "artist": "Logic Moon",
+      "title": "Metamorphosis",
+      "format": "Digital EP",
+      "year": "2025",
+      "genre": "Ambient / Drone",
+      "about": "",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/metamorphosis",
+      "cover": "https://f4.bcbits.com/img/a951481877_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a951481877_10.jpg", "webp": "https://f4.bcbits.com/img/a951481877_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a951481877_10.jpg", "webp": "https://f4.bcbits.com/img/a951481877_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "Metamorphosis", "runtime": "4:48", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Stasis",        "runtime": "4:30", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-004",
+      "artist": "Logic Moon",
+      "title": "Memories Of Tomorrow",
+      "format": "Digital EP",
+      "year": "2025",
+      "genre": "Ambient / Drone",
+      "about": "",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/memories-of-tomorrow",
+      "cover": "https://f4.bcbits.com/img/a3097781026_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a3097781026_10.jpg", "webp": "https://f4.bcbits.com/img/a3097781026_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a3097781026_10.jpg", "webp": "https://f4.bcbits.com/img/a3097781026_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "Réunion",            "runtime": "4:27", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Memories Of Tomorrow","runtime": "3:00", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 3, "title": "Lunar",              "runtime": "4:30", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 4, "title": "This Will Destroy You","runtime": "4:12", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-003",
+      "artist": "Logic Moon",
+      "title": "Atlas",
+      "format": "Digital EP",
+      "year": "2025",
+      "genre": "Ambient / Drone",
+      "about": "With \"Atlas,\" I've aimed to balance tension and depth, creating immersive drone soundscapes that are both forward-thinking and emotionally resonant. The saturated drone pieces provide ample space for interpretation, crafting an experience where technological precision meets organic warmth.",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/atlas",
+      "cover": "https://f4.bcbits.com/img/a530527519_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a530527519_10.jpg", "webp": "https://f4.bcbits.com/img/a530527519_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a530527519_10.jpg", "webp": "https://f4.bcbits.com/img/a530527519_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "Emeril Fields", "runtime": "3:15", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Atlas",         "runtime": "4:28", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 3, "title": "Magno Gold",    "runtime": "4:28", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-002",
+      "artist": "Logic Moon",
+      "title": "Glow",
+      "format": "Digital EP",
+      "year": "2025",
+      "genre": "Ambient / Drone",
+      "about": "",
+      "credits": "",
+      "tags": ["ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/glow",
+      "cover": "https://f4.bcbits.com/img/a875524449_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a875524449_10.jpg", "webp": "https://f4.bcbits.com/img/a875524449_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a875524449_10.jpg", "webp": "https://f4.bcbits.com/img/a875524449_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "Glow",        "runtime": "2:51", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "Drifting Sun", "runtime": "2:57", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 3, "title": "Heima",        "runtime": "3:00", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 4, "title": "Manifest",     "runtime": "2:24", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    },
+    {
+      "catalog": "TMR-001",
+      "artist": "Logic Moon",
+      "title": "Music For Film Vol.1",
+      "format": "Digital Album",
+      "year": "2024",
+      "genre": "Ambient / Dark Ambient / Soundscape",
+      "about": "It is finally done.\n\nMy first album, with many tracks that I have exclusively created for my YouTube project over the last few months, is finally ready to see the world.\n\nI'm feeling a bit of a \"Back to The Roots\" vibe because some of the tracks sound like me in 2019, only in a better version.\n\nOverall, I am very satisfied and hope you share the album enthusiastically. It was a long journey to get here, and I feel like it's just beginning to really take off.\n\nAnd most importantly: Without YOU, none of this would have been possible. Everything I wanted to achieve was to bring something into this world that offers each of you a moment of personal peace, in a world that seems to almost spin out of control.",
+      "credits": "YOU",
+      "tags": ["ambient", "dark", "dark ambient", "drone", "soundscapes"],
+      "bandcamp": "https://logicmoon.bandcamp.com/album/music-for-film-vol-1",
+      "cover": "https://f4.bcbits.com/img/a119570661_10.jpg",
+      "artwork": {
+        "600":  { "jpg": "https://f4.bcbits.com/img/a119570661_10.jpg", "webp": "https://f4.bcbits.com/img/a119570661_10.jpg" },
+        "1500": { "jpg": "https://f4.bcbits.com/img/a119570661_10.jpg", "webp": "https://f4.bcbits.com/img/a119570661_10.jpg" }
+      },
+      "tracks": [
+        { "number": 1, "title": "Outland",            "runtime": "3:51", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 2, "title": "New Arcadia",        "runtime": "4:02", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 3, "title": "Metropolis",         "runtime": "5:20", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 4, "title": "The Quantum Sea",    "runtime": "5:06", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 5, "title": "Horizon",            "runtime": "5:12", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 6, "title": "Meld",               "runtime": "3:13", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 7, "title": "Tranquillity",       "runtime": "3:02", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 8, "title": "Artifacts",          "runtime": "3:42", "bpm": "", "key": "", "url": "", "url_320": "" },
+        { "number": 9, "title": "Return to Metropolis","runtime": "9:24", "bpm": "", "key": "", "url": "", "url_320": "" }
+      ]
+    }
+  ]
 }

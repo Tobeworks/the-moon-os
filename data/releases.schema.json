@@ -124,9 +124,25 @@
                         }
                     }
                 },
-                "bandcamp": {
-                    "type": "string",
-                    "format": "uri"
+                "platforms": {
+                    "type": "array",
+                    "description": "Streaming / purchase platform links",
+                    "items": {
+                        "type": "object",
+                        "required": ["name", "url"],
+                        "additionalProperties": true,
+                        "properties": {
+                            "name": {
+                                "type": "string",
+                                "description": "Platform identifier (e.g. bandcamp, spotify, apple_music)"
+                            },
+                            "url": {
+                                "type": "string",
+                                "format": "uri",
+                                "description": "Link to the release on this platform"
+                            }
+                        }
+                    }
                 },
                 "tracks": {
                     "type": "array",

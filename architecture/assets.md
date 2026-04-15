@@ -105,7 +105,7 @@ Examples:
     "min_resolution": "3000x3000",
     "format": "PNG or TIFF"
   },
-  "distribution": {
+  "platforms": {
     "bandcamp": null,
     "spotify": null,
     "soundcloud": null

@@ -141,7 +141,7 @@ def generate_release(release_path: str):
             "min_resolution": "3000x3000",
             "format": "PNG or TIFF"
         },
-        "distribution": existing.get('distribution') or {
+        "plaforms": existing.get('plaforms') or {
             "bandcamp": None,
             "spotify": None,
             "soundcloud": None

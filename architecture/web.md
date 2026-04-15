@@ -89,8 +89,8 @@ format                 → Format tag (EP / LP / Single)
 release_date           → Date display
 tracks[]               → Tracklist
 tracks[].duration      → Duration per track
-distribution.bandcamp  → Bandcamp link
-distribution.soundcloud → SoundCloud link
+plaforms.bandcamp  → Bandcamp link
+plaforms.soundcloud → SoundCloud link
 ```
 
 Cover art is sourced from `the-moon-assets/` via the SFTP-served URL (not committed to either repo).

@@ -43,7 +43,7 @@ releases/
 ./pg convert releases/pg-NNN-artist-title
 ```
 
-**Output:** `export/mp3/` — fertige MP3s mit Tags, bereit für Bandcamp/Distribution
+**Output:** `export/mp3/` — fertige MP3s mit Tags, bereit für Bandcamp/plaforms
 
 ---
 
@@ -106,7 +106,7 @@ releases/
 ## PHASE 8 — ABSCHLUSS
 
 **8.1** Status in `release.md` auf `RELEASED` setzen
-**8.2** Release-Datum und alle URLs in `release.md` → `DISTRIBUTION` eintragen
+**8.2** Release-Datum und alle URLs in `release.md` → `plaforms` eintragen
 **8.3** Commit: `release(PG-NNN): released`
 
 ---
@@ -129,7 +129,7 @@ pg-NNN-artist-title/
 ├── audio/                  ← Masters (WAV/AIFF)
 ├── artwork/                ← Cover
 ├── export/
-│   ├── mp3/                ← Distribution-ready MP3s
+│   ├── mp3/                ← plaforms-ready MP3s
 │   └── social/
 │       ├── square/         ← Instagram Posts
 │       └── reel/           ← Instagram Reels

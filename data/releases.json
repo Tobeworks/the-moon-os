@@ -7,79 +7,109 @@
   },
   "releases": [
     {
-      "catalog": "TMR-003",
+      "catalog": "TMR-011",
       "artist": "Logic Moon",
-      "title": "Atlas",
+      "title": "Clockworks",
       "format": "EP",
       "year": "",
       "genre": "",
-      "cover": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_600.jpg",
       "artwork": {
         "1500": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.webp"
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_1500.webp"
         },
         "300": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.webp"
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_300.webp"
         },
         "3000": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.webp"
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_3000.webp"
         },
         "600": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.webp"
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_600.webp"
         }
       },
       "tracks": [
         {
           "number": 1,
-          "title": "Logic Moon   Atlas",
+          "title": "Logic Moon   Clockwork",
           "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/01_logic_moon_atlas.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/01_logic_moon_atlas.mp3"
+          "url": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/128/01_logic_moon_clockwork.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/320/01_logic_moon_clockwork.mp3"
         },
         {
           "number": 2,
-          "title": "Logic Moon   Emeril Fields",
+          "title": "Logic Moon   The Last Of Us",
           "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/02_logic_moon_emeril_fields.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/02_logic_moon_emeril_fields.mp3"
-        },
-        {
-          "number": 3,
-          "title": "Logic Moon   Magno Gold",
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/03_logic_moon_magno_gold.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/03_logic_moon_magno_gold.mp3"
+          "url": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/128/02_logic_moon_the_last_of_us.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/320/02_logic_moon_the_last_of_us.mp3"
         }
       ],
-      "pushed_at": "2026-04-14T13:30:03.246691+00:00",
+      "pushed_at": "2026-04-14T11:21:30.279498+00:00",
       "platforms": [
         {
           "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/atlas"
-        },
-        {
-          "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/atlas"
-        },
-        {
-          "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/atlas"
-        },
-        {
-          "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/clockworks"
+        }
+      ]
+    },
+    {
+      "catalog": "TMR-010",
+      "artist": "Logic Moon",
+      "title": "It May Never Coming Back",
+      "format": "EP",
+      "year": "",
+      "genre": "",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_1500.webp"
         },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_600.webp"
+        }
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Logic Moon   D4Rk",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/128/01_logic_moon_d4rk.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/320/01_logic_moon_d4rk.mp3"
+        },
+        {
+          "number": 2,
+          "title": "Logic Moon   It May Not Coming Back",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/128/02_logic_moon_it_may_not_coming_back.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/320/02_logic_moon_it_may_not_coming_back.mp3"
+        },
+        {
+          "number": 3,
+          "title": "Logic Moon   Shdws",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/128/03_logic_moon_shdws.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/320/03_logic_moon_shdws.mp3"
+        }
+      ],
+      "pushed_at": "2026-04-14T11:20:43.442298+00:00",
+      "platforms": [
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back"
-        },
-        {
-          "name": "spotify",
-          "url": "https://open.spotify.com/intl-de/album/4Vz7VMzLCYPmfg8v3gguav"
         }
       ]
     },
@@ -467,6 +497,83 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/7JuDYWfUR7jB2FtvUj793U"
+        }
+      ]
+    },
+    {
+      "catalog": "TMR-003",
+      "artist": "Logic Moon",
+      "title": "Atlas",
+      "format": "EP",
+      "year": "",
+      "genre": "",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/artwork/cover_600.webp"
+        }
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Logic Moon   Atlas",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/01_logic_moon_atlas.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/01_logic_moon_atlas.mp3"
+        },
+        {
+          "number": 2,
+          "title": "Logic Moon   Emeril Fields",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/02_logic_moon_emeril_fields.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/02_logic_moon_emeril_fields.mp3"
+        },
+        {
+          "number": 3,
+          "title": "Logic Moon   Magno Gold",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/03_logic_moon_magno_gold.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/03_logic_moon_magno_gold.mp3"
+        }
+      ],
+      "pushed_at": "2026-04-14T13:30:03.246691+00:00",
+      "platforms": [
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/atlas"
+        },
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/atlas"
+        },
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/atlas"
+        },
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/clockworks"
+        },
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/4Vz7VMzLCYPmfg8v3gguav"
         }
       ]
     },

@@ -36,7 +36,6 @@
         {
           "number": 1,
           "title": "Logic Moon   Atlas",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/01_logic_moon_atlas.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/01_logic_moon_atlas.mp3"
@@ -44,7 +43,6 @@
         {
           "number": 2,
           "title": "Logic Moon   Emeril Fields",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/02_logic_moon_emeril_fields.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/02_logic_moon_emeril_fields.mp3"
@@ -52,7 +50,6 @@
         {
           "number": 3,
           "title": "Logic Moon   Magno Gold",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/128/03_logic_moon_magno_gold.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-003-logic-moon-atlas/audio/320/03_logic_moon_magno_gold.mp3"
@@ -63,118 +60,26 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/atlas"
-        }
-      ]
-    },
-    {
-      "catalog": "TMR-011",
-      "artist": "Logic Moon",
-      "title": "Clockworks",
-      "format": "EP",
-      "year": "",
-      "genre": "",
-      "cover": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_600.jpg",
-      "artwork": {
-        "1500": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_1500.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_1500.webp"
-        },
-        "300": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_300.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_300.webp"
-        },
-        "3000": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_3000.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_3000.webp"
-        },
-        "600": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_600.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/artwork/cover_600.webp"
-        }
-      },
-      "tracks": [
-        {
-          "number": 1,
-          "title": "Logic Moon   Clockwork",
-
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/128/01_logic_moon_clockwork.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/320/01_logic_moon_clockwork.mp3"
         },
         {
-          "number": 2,
-          "title": "Logic Moon   The Last Of Us",
-
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/128/02_logic_moon_the_last_of_us.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-011-logic-moon-clockworks/audio/320/02_logic_moon_the_last_of_us.mp3"
-        }
-      ],
-      "pushed_at": "2026-04-14T11:21:30.279498+00:00",
-      "platforms": [
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/atlas"
+        },
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/atlas"
+        },
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/clockworks"
-        }
-      ]
-    },
-    {
-      "catalog": "TMR-010",
-      "artist": "Logic Moon",
-      "title": "It May Never Coming Back",
-      "format": "EP",
-      "year": "",
-      "genre": "",
-      "cover": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_600.jpg",
-      "artwork": {
-        "1500": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_1500.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_1500.webp"
         },
-        "300": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_300.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_300.webp"
-        },
-        "3000": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_3000.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_3000.webp"
-        },
-        "600": {
-          "jpg": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_600.jpg",
-          "webp": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/artwork/cover_600.webp"
-        }
-      },
-      "tracks": [
-        {
-          "number": 1,
-          "title": "Logic Moon   D4Rk",
-
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/128/01_logic_moon_d4rk.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/320/01_logic_moon_d4rk.mp3"
-        },
-        {
-          "number": 2,
-          "title": "Logic Moon   It May Not Coming Back",
-
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/128/02_logic_moon_it_may_not_coming_back.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/320/02_logic_moon_it_may_not_coming_back.mp3"
-        },
-        {
-          "number": 3,
-          "title": "Logic Moon   Shdws",
-
-          "runtime": "",
-          "url": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/128/03_logic_moon_shdws.mp3",
-          "url_320": "https://cdn.the-moon-records.de/releases/tmr-010-logic-moon-it-may-never-coming-back/audio/320/03_logic_moon_shdws.mp3"
-        }
-      ],
-      "pushed_at": "2026-04-14T11:20:43.442298+00:00",
-      "platforms": [
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/4Vz7VMzLCYPmfg8v3gguav"
         }
       ]
     },
@@ -208,7 +113,6 @@
         {
           "number": 1,
           "title": "01   Still",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/01_01_still.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/01_01_still.mp3"
@@ -216,7 +120,6 @@
         {
           "number": 2,
           "title": "02   Kind",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/02_02_kind.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/02_02_kind.mp3"
@@ -224,7 +127,6 @@
         {
           "number": 3,
           "title": "03   Song1",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/03_03_song1.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/03_03_song1.mp3"
@@ -232,7 +134,6 @@
         {
           "number": 4,
           "title": "04   Memo",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/04_04_memo.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/04_04_memo.mp3"
@@ -240,7 +141,6 @@
         {
           "number": 5,
           "title": "05   Searching",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/05_05_searching.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/05_05_searching.mp3"
@@ -248,7 +148,6 @@
         {
           "number": 6,
           "title": "06   Tapone",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/06_06_tapone.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/06_06_tapone.mp3"
@@ -256,7 +155,6 @@
         {
           "number": 7,
           "title": "07   Fall",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/07_07_fall.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/07_07_fall.mp3"
@@ -264,7 +162,6 @@
         {
           "number": 8,
           "title": "08   Wounds",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/08_08_wounds.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/08_08_wounds.mp3"
@@ -272,7 +169,6 @@
         {
           "number": 9,
           "title": "09   Morning Waves",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/09_09_morning_waves.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/09_09_morning_waves.mp3"
@@ -280,7 +176,6 @@
         {
           "number": 10,
           "title": "10   Poets",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/128/10_10_poets.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-009-aethery-fields-hello/audio/320/10_10_poets.mp3"
@@ -291,6 +186,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/hello"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/6WtFQ5S4DW3gFrb1SUHgeZ"
         }
       ]
     },
@@ -324,7 +223,6 @@
         {
           "number": 1,
           "title": "Aethery Fields   Debut",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-008-aethery-fields-debut/audio/128/01_aethery_fields_debut.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-008-aethery-fields-debut/audio/320/01_aethery_fields_debut.mp3"
@@ -335,6 +233,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/-"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/0IiHrjhYraVi8i7LTVRrpA"
         }
       ]
     },
@@ -368,7 +270,6 @@
         {
           "number": 1,
           "title": "Logic Moon   On",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-007-logic-moon-reminiscence/audio/128/01_logic_moon_on.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-007-logic-moon-reminiscence/audio/320/01_logic_moon_on.mp3"
@@ -376,7 +277,6 @@
         {
           "number": 2,
           "title": "Logic Moon   Reminiscence",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-007-logic-moon-reminiscence/audio/128/02_logic_moon_reminiscence.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-007-logic-moon-reminiscence/audio/320/02_logic_moon_reminiscence.mp3"
@@ -387,6 +287,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/reminiscence"
+        },
+        {
+          "name": "spotify",
+          "url": ""
         }
       ]
     },
@@ -420,7 +324,6 @@
         {
           "number": 1,
           "title": "Logic Moon   Alfheim",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-006-logic-moon-heim/audio/128/01_logic_moon_alfheim.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-006-logic-moon-heim/audio/320/01_logic_moon_alfheim.mp3"
@@ -428,7 +331,6 @@
         {
           "number": 2,
           "title": "Logic Moon   Helheim",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-006-logic-moon-heim/audio/128/02_logic_moon_helheim.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-006-logic-moon-heim/audio/320/02_logic_moon_helheim.mp3"
@@ -439,6 +341,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/heim"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/6v7jTE6nbqHTQ6Hte1UvkY"
         }
       ]
     },
@@ -472,7 +378,6 @@
         {
           "number": 1,
           "title": "Logic Moon   Metamorphosis   01 Metamorphosis",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-005-logic-moon-metamorphosis/audio/128/01_logic_moon_metamorphosis_01_metamorphosis.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-005-logic-moon-metamorphosis/audio/320/01_logic_moon_metamorphosis_01_metamorphosis.mp3"
@@ -480,7 +385,6 @@
         {
           "number": 2,
           "title": "Logic Moon   Metamorphosis   02 Stasis",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-005-logic-moon-metamorphosis/audio/128/02_logic_moon_metamorphosis_02_stasis.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-005-logic-moon-metamorphosis/audio/320/02_logic_moon_metamorphosis_02_stasis.mp3"
@@ -491,6 +395,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/metamorphosis"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/4ARC06MQafSSiejvfHPTJw"
         }
       ]
     },
@@ -524,7 +432,6 @@
         {
           "number": 1,
           "title": "Logic Moon   Memories Of Tomorrow   01 RéUnion",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/01_logic_moon_memories_of_tomorrow_01_reunion.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/01_logic_moon_memories_of_tomorrow_01_reunion.mp3"
@@ -532,7 +439,6 @@
         {
           "number": 2,
           "title": "Logic Moon   Memories Of Tomorrow   02 Memories Of Tomorrow",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/02_logic_moon_memories_of_tomorrow_02_memories_of_tomorrow.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/02_logic_moon_memories_of_tomorrow_02_memories_of_tomorrow.mp3"
@@ -540,7 +446,6 @@
         {
           "number": 3,
           "title": "Logic Moon   Memories Of Tomorrow   03 Lunar",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/03_logic_moon_memories_of_tomorrow_03_lunar.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/03_logic_moon_memories_of_tomorrow_03_lunar.mp3"
@@ -548,7 +453,6 @@
         {
           "number": 4,
           "title": "Logic Moon   Memories Of Tomorrow   04 This Will Destroy You",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/04_logic_moon_memories_of_tomorrow_04_this_will_destroy_you.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/04_logic_moon_memories_of_tomorrow_04_this_will_destroy_you.mp3"
@@ -559,6 +463,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/memories-of-tomorrow"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/7JuDYWfUR7jB2FtvUj793U"
         }
       ]
     },
@@ -592,7 +500,6 @@
         {
           "number": 1,
           "title": "01   Glow",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/128/01_01_glow.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/320/01_01_glow.mp3"
@@ -600,7 +507,6 @@
         {
           "number": 2,
           "title": "02   Seance",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/128/02_02_seance.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/320/02_02_seance.mp3"
@@ -608,7 +514,6 @@
         {
           "number": 3,
           "title": "03   Heima",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/128/03_03_heima.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/320/03_03_heima.mp3"
@@ -616,7 +521,6 @@
         {
           "number": 4,
           "title": "04   Manifest",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/128/04_04_manifest.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-002-logic-moon-glow/audio/320/04_04_manifest.mp3"
@@ -627,6 +531,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/glow"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/track/4ACTvBLX61RTSr4sKIsf1F"
         }
       ]
     },
@@ -660,7 +568,6 @@
         {
           "number": 1,
           "title": "Outland",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/01_outland.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/01_outland.mp3"
@@ -668,7 +575,6 @@
         {
           "number": 2,
           "title": "New Arcadia",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/02_new_arcadia.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/02_new_arcadia.mp3"
@@ -676,7 +582,6 @@
         {
           "number": 3,
           "title": "Settlers",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/03_settlers.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/03_settlers.mp3"
@@ -684,7 +589,6 @@
         {
           "number": 4,
           "title": "Metropolis",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/04_metropolis.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/04_metropolis.mp3"
@@ -692,7 +596,6 @@
         {
           "number": 5,
           "title": "Horizon",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/05_horizon.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/05_horizon.mp3"
@@ -700,7 +603,6 @@
         {
           "number": 6,
           "title": "Meld",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/06_meld.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/06_meld.mp3"
@@ -708,7 +610,6 @@
         {
           "number": 7,
           "title": "Tranqility",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/07_tranqility.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/07_tranqility.mp3"
@@ -716,7 +617,6 @@
         {
           "number": 8,
           "title": "Artifacts",
-
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/128/08_artifacts.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-001-logic-moon-music-for-film-vol-1/audio/320/08_artifacts.mp3"
@@ -727,6 +627,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/music-for-film-vol-1"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/intl-de/album/6NY5fLgoTaGBouYPXHnaTj"
         }
       ]
     }

@@ -54,7 +54,8 @@
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/clockworks"
         }
-      ]
+      ],
+      "release_date": "2026-03-17T00:00:00+00:00"
     },
     {
       "catalog": "TMR-010",
@@ -111,7 +112,8 @@
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back"
         }
-      ]
+      ],
+      "release_date": "2026-01-02T00:00:00+00:00"
     },
     {
       "catalog": "TMR-009",
@@ -221,7 +223,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/6WtFQ5S4DW3gFrb1SUHgeZ"
         }
-      ]
+      ],
+      "release_date": "2025-11-21T00:00:00+00:00"
     },
     {
       "catalog": "TMR-008",
@@ -268,7 +271,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/0IiHrjhYraVi8i7LTVRrpA"
         }
-      ]
+      ],
+      "release_date": "2025-09-22T00:00:00+00:00"
     },
     {
       "catalog": "TMR-007",
@@ -322,7 +326,8 @@
           "name": "spotify",
           "url": ""
         }
-      ]
+      ],
+      "release_date": "2025-09-04T00:00:00+00:00"
     },
     {
       "catalog": "TMR-006",
@@ -376,7 +381,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/6v7jTE6nbqHTQ6Hte1UvkY"
         }
-      ]
+      ],
+      "release_date": "2025-10-10T00:00:00+00:00"
     },
     {
       "catalog": "TMR-005",
@@ -430,7 +436,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/4ARC06MQafSSiejvfHPTJw"
         }
-      ]
+      ],
+      "release_date": "2025-05-05T00:00:00+00:00"
     },
     {
       "catalog": "TMR-004",
@@ -498,7 +505,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/7JuDYWfUR7jB2FtvUj793U"
         }
-      ]
+      ],
+      "release_date": "2025-06-03T00:00:00+00:00"
     },
     {
       "catalog": "TMR-003",
@@ -575,7 +583,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/4Vz7VMzLCYPmfg8v3gguav"
         }
-      ]
+      ],
+      "release_date": "2025-03-08T00:00:00+00:00"
     },
     {
       "catalog": "TMR-002",
@@ -643,7 +652,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/track/4ACTvBLX61RTSr4sKIsf1F"
         }
-      ]
+      ],
+      "release_date": "2025-01-06T00:00:00+00:00"
     },
     {
       "catalog": "TMR-001",
@@ -739,7 +749,8 @@
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/6NY5fLgoTaGBouYPXHnaTj"
         }
-      ]
+      ],
+      "release_date": "2024-11-25T00:00:00+00:00"
     }
   ]
 }

@@ -1,11 +1,49 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-04-14T13:30:03.246937+00:00",
+    "generated": "2026-04-15T12:28:34.595831+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
   "releases": [
+    {
+      "catalog": "TMR-012",
+      "artist": "Logic Moon",
+      "title": "Stellar Refuge",
+      "format": "Single",
+      "year": "",
+      "genre": "",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_600.webp"
+        }
+      },
+      "bandcamp": "",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Logic Moon   Stellar Refuge",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/audio/128/01_logic_moon_stellar_refuge.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/audio/320/01_logic_moon_stellar_refuge.mp3"
+        }
+      ],
+      "pushed_at": "2026-04-15T12:28:34.595639+00:00"
+    },
     {
       "catalog": "TMR-011",
       "artist": "Logic Moon",
@@ -229,7 +267,7 @@
     {
       "catalog": "TMR-008",
       "artist": "Aethery Fields",
-      "title": "スライン",
+      "title": "\u30b9\u30e9\u30a4\u30f3",
       "format": "Single",
       "year": "",
       "genre": "",
@@ -468,7 +506,7 @@
       "tracks": [
         {
           "number": 1,
-          "title": "Logic Moon   Memories Of Tomorrow   01 RéUnion",
+          "title": "Logic Moon   Memories Of Tomorrow   01 Re\u0301Union",
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/01_logic_moon_memories_of_tomorrow_01_reunion.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/01_logic_moon_memories_of_tomorrow_01_reunion.mp3"

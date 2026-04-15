@@ -173,7 +173,7 @@ def convert_release(release_path: str, force: bool = False):
 
     artist  = release.get('artist', 'UNKNOWN')
     title   = release.get('title',  'UNKNOWN')
-    catalog = release.get('catalog', 'PG-XXX')
+    catalog = release.get('catalog', 'TMR-XXX')
     tracks  = release.get('tracks', [])
 
     ok(f"{catalog} — {artist} — {title}")

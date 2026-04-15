@@ -122,9 +122,9 @@ def generate_release(release_path: str):
             warn("Existing release.json could not be read — overwriting")
 
     # Derive folder slug for catalog number
-    folder_name = path.name  # e.g. pg-001-input-null-vector-field-signals
+    folder_name = path.name  
     catalog_match = re.match(r'^(pg-\d+)', folder_name)
-    catalog = catalog_match.group(1).upper() if catalog_match else "PG-XXX"
+    catalog = catalog_match.group(1).upper() if catalog_match else "TMR-XXX"
 
     # Build release.json — preserve existing manual values where set
     release = {

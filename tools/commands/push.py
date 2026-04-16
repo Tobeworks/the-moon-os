@@ -470,9 +470,17 @@ def push_release(release_path: str, preview_only: bool = False):
         )
 
     # Build platforms array per schema
+    # Supports both nested "platforms" object and legacy flat "bandcamp_url"
     platforms = []
+    platforms_data = data.get("platforms", data.get("plaforms", {})) or {}
+    platform_names = ["bandcamp", "spotify", "soundcloud", "apple_music", "beatport"]
+    for name in platform_names:
+        url = platforms_data.get(name)
+        if url:
+            platforms.append({"name": name, "url": url})
+    # legacy flat field fallback
     bandcamp_url = data.get("bandcamp_url", "")
-    if bandcamp_url:
+    if bandcamp_url and not any(p["name"] == "bandcamp" for p in platforms):
         platforms.append({"name": "bandcamp", "url": bandcamp_url})
 
     entry = {
@@ -489,12 +497,7 @@ def push_release(release_path: str, preview_only: bool = False):
         "pushed_at": datetime.now(timezone.utc).isoformat(),
     }
 
-    # Only include release_date if present and non-empty (schema: format "date-time")
-    release_date = data.get("release_date", "")
-    if release_date:
-        entry["release_date"] = release_date
-
-    # Only include release_date if present and non-empty (schema: format "date-time")
+    # Only include release_date if present and non-empty
     release_date = data.get("release_date", "")
     if release_date:
         entry["release_date"] = release_date

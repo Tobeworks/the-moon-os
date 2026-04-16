@@ -10,6 +10,7 @@ tools/venv/
 tools/__pycache__/
 tools/commands/__pycache__/
 *.pyc
+.claude
 
 # General
 .DS_Store

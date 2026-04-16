@@ -1,7 +1,7 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-04-15T12:28:34.595831+00:00",
+    "generated": "2026-04-16T09:51:34.349169+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
@@ -32,6 +32,12 @@
           "webp": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/artwork/cover_600.webp"
         }
       },
+      "platforms": [
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/stellar-refuge"
+        }
+      ],
       "tracks": [
         {
           "number": 1,
@@ -41,9 +47,8 @@
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/audio/320/01_logic_moon_stellar_refuge.mp3"
         }
       ],
-      "pushed_at": "2026-04-15T12:28:34.595639+00:00",
-      "release_date": "2026-04-17T00:00:01.595639+00:00",
-      "platforms": []
+      "pushed_at": "2026-04-16T09:51:34.348951+00:00",
+      "release_date": "2026-04-17"
     },
     {
       "catalog": "TMR-011",
@@ -268,7 +273,7 @@
     {
       "catalog": "TMR-008",
       "artist": "Aethery Fields",
-      "title": "スライン",
+      "title": "\u30b9\u30e9\u30a4\u30f3",
       "format": "Single",
       "year": "",
       "genre": "",
@@ -507,7 +512,7 @@
       "tracks": [
         {
           "number": 1,
-          "title": "Logic Moon   Memories Of Tomorrow   01 RéUnion",
+          "title": "Logic Moon   Memories Of Tomorrow   01 Re\u0301Union",
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/01_logic_moon_memories_of_tomorrow_01_reunion.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/01_logic_moon_memories_of_tomorrow_01_reunion.mp3"

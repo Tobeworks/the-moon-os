@@ -1,11 +1,100 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-04-16T09:51:34.349169+00:00",
+    "generated": "2026-04-21T12:09:07.843195+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
   "releases": [
+    {
+      "catalog": "TMR-013",
+      "artist": "Aethery Fields",
+      "title": "Sub Lacuna",
+      "format": "Album",
+      "year": "2026",
+      "genre": "Ambient",
+      "about": "# Sub Lacuna\n\nThe new album from Aethery Fields is a journey into the damp, pressurised depths of the subconscious. Where earlier works drifted through foggy expanses, this album descends, slowly, irreversibly, through layers of sound that feel like water. Cold. Alive. Restless.\nTurbulent textures meet organic stillness. Kelp forests sway in the shifting light of currents. The ocean floor breathes. Sub Lacuna is the most experimental work under the Aethery Fields banner to date, an album that sounds wet, in every sense of the word.\nTracks like Sub Lacuna, Kelp Reef Garden and Sea Floor are not merely locations. They are states of being. Levels of consciousness. Measures of pressure.",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_600.webp"
+        }
+      },
+      "platforms": [],
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Still Bay Nautica",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/01_still_bay_nautica.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/01_still_bay_nautica.mp3"
+        },
+        {
+          "number": 2,
+          "title": "Sub Lacuna",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/02_sub_lacuna.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/02_sub_lacuna.mp3"
+        },
+        {
+          "number": 3,
+          "title": "Kelp Reef Garden",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/03_kelp_reef_garden.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/03_kelp_reef_garden.mp3"
+        },
+        {
+          "number": 4,
+          "title": "Anemone Foam",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/04_anemone_foam.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/04_anemone_foam.mp3"
+        },
+        {
+          "number": 5,
+          "title": "Filigree Urchin",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/05_filigree_urchin.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/05_filigree_urchin.mp3"
+        },
+        {
+          "number": 6,
+          "title": "Pale Blue Coral",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/06_pale_blue_coral.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/06_pale_blue_coral.mp3"
+        },
+        {
+          "number": 7,
+          "title": "Plume Atoll",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/07_plume_atoll.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/07_plume_atoll.mp3"
+        },
+        {
+          "number": 8,
+          "title": "Sea Floor",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/128/08_sea_floor.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/audio/320/08_sea_floor.mp3"
+        }
+      ],
+      "pushed_at": "2026-04-21T12:09:07.842958+00:00",
+      "release_date": "2026-05-15"
+    },
     {
       "catalog": "TMR-012",
       "artist": "Logic Moon",
@@ -47,7 +136,7 @@
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-012-logic-moon-stellar-refuge/audio/320/01_logic_moon_stellar_refuge.mp3"
         }
       ],
-      "pushed_at": "2026-04-16T09:51:34.348951+00:00",
+      "pushed_at": "2026-04-16T13:08:50.004017+00:00",
       "release_date": "2026-04-17"
     },
     {

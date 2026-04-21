@@ -23,7 +23,7 @@ The label's operational system — brand, workflows, release process — exists 
 ```
 The Moon Records
 Ambient & Drone. Code-based label.
-Est. 2026
+Est. 2024
 ↓
 github.com/Tobeworks/the-moon-os
 ```

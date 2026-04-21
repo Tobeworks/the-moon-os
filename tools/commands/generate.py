@@ -35,10 +35,15 @@ def header(msg):
 
 
 def slugify(name: str) -> str:
-    """Convert filename to human-readable title."""
-    # Remove leading number + underscore: "01_vector_field" → "vector_field"
+    """Extract track title from filename stem."""
+    if ' - ' in name:
+        # Take the last segment: "07 - Aethery Fields - Plume Atoll" → "Plume Atoll"
+        title = name.split(' - ')[-1]
+        # Strip leading track number if present: "01 Réunion" → "Réunion"
+        title = re.sub(r'^\d+\s+', '', title)
+        return title.strip()
+    # Fallback: remove leading number+underscore, replace separators
     name = re.sub(r'^\d+_', '', name)
-    # Replace underscores/hyphens with spaces and title-case
     return name.replace('_', ' ').replace('-', ' ').title()
 
 
@@ -73,6 +78,24 @@ def generate_release(release_path: str):
         sys.exit(1)
 
     ok(f"{len(audio_files)} audio file(s) found")
+
+    # ── Scan artwork folder ───────────────────────────────────────────────────
+    ARTWORK_EXTENSIONS = {'.png', '.jpg', '.jpeg', '.tif', '.tiff'}
+    artwork_path = path / 'artwork'
+    cover_file = None
+
+    if artwork_path.exists():
+        candidates = [
+            f for f in artwork_path.iterdir()
+            if f.suffix.lower() in ARTWORK_EXTENSIONS and not f.name.startswith('.')
+        ]
+        if candidates:
+            cover_file = sorted(candidates)[0].name
+            ok(f"Artwork found: {cover_file}")
+        else:
+            warn("artwork/ folder is empty")
+    else:
+        warn("artwork/ folder not found")
 
     # ── Read file metadata ────────────────────────────────────────────────────
     header("2. READING FILE METADATA")
@@ -137,7 +160,7 @@ def generate_release(release_path: str):
         "release_date": existing.get('release_date') or "YYYY-MM-DD",
         "tracks":       tracks,
         "artwork": existing.get('artwork') or {
-            "cover": "cover.png",
+            "cover": cover_file or "FILL_IN",
             "min_resolution": "3000x3000",
             "format": "PNG or TIFF"
         },
@@ -164,6 +187,8 @@ def generate_release(release_path: str):
         manual_fields.append('title')
     if release['release_date'] == 'YYYY-MM-DD':
         manual_fields.append('release_date')
+    if release['artwork']['cover'] == 'FILL_IN':
+        manual_fields.append('artwork.cover')
 
     for f in manual_fields:
         warn(f)

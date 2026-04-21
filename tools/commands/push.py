@@ -483,6 +483,13 @@ def push_release(release_path: str, preview_only: bool = False):
     if bandcamp_url and not any(p["name"] == "bandcamp" for p in platforms):
         platforms.append({"name": "bandcamp", "url": bandcamp_url})
 
+    about_path = path / "about.md"
+    about = about_path.read_text(encoding="utf-8").strip() if about_path.exists() else ""
+    if about:
+        ok("about.md loaded")
+    else:
+        warn("about.md not found or empty — 'about' will be blank")
+
     entry = {
         "catalog": catalog,
         "artist": artist,
@@ -490,6 +497,7 @@ def push_release(release_path: str, preview_only: bool = False):
         "format": data.get("format", ""),
         "year": data.get("year", ""),
         "genre": data.get("genre", ""),
+        "about": about,
         "cover": cdn_cover,
         "artwork": cdn_artwork,
         "platforms": platforms,

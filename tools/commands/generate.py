@@ -177,6 +177,17 @@ def generate_release(release_path: str):
 
     ok(f"release.json written → {json_path}")
 
+    # ── Create about.md placeholder ───────────────────────────────────────────
+    about_path = path / 'about.md'
+    if not about_path.exists():
+        about_path.write_text(
+            f"# {existing.get('title') or 'Release Title'}\n\n"
+            "Write your release description here.\n"
+        )
+        ok(f"about.md created → {about_path}")
+    else:
+        info("about.md already exists — skipping")
+
     # ── Summary ───────────────────────────────────────────────────────────────
     header("4. WHAT STILL NEEDS MANUAL INPUT")
 

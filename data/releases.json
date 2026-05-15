@@ -33,7 +33,11 @@
           "webp": "https://cdn.the-moon-records.de/releases/tmr-013-aethery-fields-sub-lacuna/artwork/cover_600.webp"
         }
       },
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/sub-lacuna"
+        }],
       "tracks": [
         {
           "number": 1,

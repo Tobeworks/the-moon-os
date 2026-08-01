@@ -1,11 +1,58 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-04-21T12:09:07.843195+00:00",
+    "generated": "2026-08-01T07:55:08.512747+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
   "releases": [
+    {
+      "catalog": "TMR-014",
+      "artist": "Logic Moon & Henrik Meierkord",
+      "title": "Spelrum",
+      "format": "EP",
+      "year": "",
+      "genre": "",
+      "about": "# Spelrum\n\nA collaboration between Logic Moon and Henrik Meierkord \u2014 two ambient practitioners meeting in the space between control and drift. \"Spelrum\" is Swedish for room to move, leeway, the margin left open for something to happen. That's the record: two players trading restraint for restraint, until what's left is the gap between them.\n\n\"Tidsmarginal\" opens the EP as its emotional core \u2014 slow, aching tonal shifts measured against a clock that never quite resolves. \"Spelrum\" closes it under tension, low tones held taut rather than released, cello overtones bowing through the mix, the leeway of the title never fully cashed in.",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_600.webp"
+        }
+      },
+      "platforms": [],
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Tidsmarginal",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/audio/128/01_tidsmarginal.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/audio/320/01_tidsmarginal.mp3"
+        },
+        {
+          "number": 2,
+          "title": "Spelrum",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/audio/128/02_spelrum.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/audio/320/02_spelrum.mp3"
+        }
+      ],
+      "pushed_at": "2026-08-01T07:55:08.512405+00:00",
+      "release_date": "2026-08-14"
+    },
     {
       "catalog": "TMR-013",
       "artist": "Aethery Fields",
@@ -37,7 +84,8 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/sub-lacuna"
-        }],
+        }
+      ],
       "tracks": [
         {
           "number": 1,

@@ -1,7 +1,7 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-08-14T05:54:27.667267+00:00",
+    "generated": "2026-08-24T10:32:46.906232+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
@@ -13,7 +13,7 @@
       "format": "EP",
       "year": "",
       "genre": "",
-      "about": "# Spelrum\n\nA collaboration between Logic Moon and Henrik Meierkord \u2014 two ambient practitioners meeting in the space between control and drift. \"Spelrum\" is Swedish for room to move, leeway, the margin left open for something to happen. That's the record: two players trading restraint for restraint, until what's left is the gap between them.\n\n\"Tidsmarginal\" opens the EP as its emotional core \u2014 slow, aching tonal shifts measured against a clock that never quite resolves. \"Spelrum\" closes it under tension, low tones held taut rather than released, cello overtones bowing through the mix, the leeway of the title never fully cashed in.\n\nTwo tracks. No excess. The Moon Records at its coldest and most patient.",
+      "about": "# Spelrum\n\nA collaboration between Logic Moon and Henrik Meierkord — two ambient practitioners meeting in the space between control and drift. \"Spelrum\" is Swedish for room to move, leeway, the margin left open for something to happen. That's the record: two players trading restraint for restraint, until what's left is the gap between them.\n\n\"Tidsmarginal\" opens the EP as its emotional core — slow, aching tonal shifts measured against a clock that never quite resolves. \"Spelrum\" closes it under tension, low tones held taut rather than released, cello overtones bowing through the mix, the leeway of the title never fully cashed in.\n\nTwo tracks. No excess. The Moon Records at its coldest and most patient.",
       "cover": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_600.jpg",
       "artwork": {
         "1500": {
@@ -37,7 +37,8 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/spelrum"
-        }],
+        }
+      ],
       "tracks": [
         {
           "number": 1,
@@ -54,7 +55,6 @@
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/audio/320/02_spelrum.mp3"
         }
       ],
-      
       "pushed_at": "2026-08-14T05:54:27.666708+00:00",
       "release_date": "2026-08-14"
     },
@@ -89,6 +89,18 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/sub-lacuna"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/album/2bxN0dpZaHsUWobKqZy7Zk"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/sub-lacuna/6782685097"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0H2Q78WZH"
         }
       ],
       "tracks": [
@@ -182,6 +194,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/stellar-refuge"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/stellar-refuge"
         }
       ],
       "tracks": [
@@ -243,6 +259,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/clockworks"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/clockwork"
         }
       ],
       "release_date": "2026-03-17T00:00:00+00:00"
@@ -301,6 +321,10 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/imncb"
         }
       ],
       "release_date": "2026-01-02T00:00:00+00:00"
@@ -412,6 +436,14 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/6WtFQ5S4DW3gFrb1SUHgeZ"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/hello/1879244541"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0GPNJMLJP"
         }
       ],
       "release_date": "2025-11-21T00:00:00+00:00"
@@ -419,7 +451,7 @@
     {
       "catalog": "TMR-008",
       "artist": "Aethery Fields",
-      "title": "\u30b9\u30e9\u30a4\u30f3",
+      "title": "スライン",
       "format": "Single",
       "year": "",
       "genre": "",
@@ -460,6 +492,14 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/0IiHrjhYraVi8i7LTVRrpA"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3-single/1841797203"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0FSCSN95Z"
         }
       ],
       "release_date": "2025-09-22T00:00:00+00:00"
@@ -514,7 +554,19 @@
         },
         {
           "name": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/0w7U9kPwyVdJmZogOwakzy"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/reminiscence-single/6771725858"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0H2J14PQG"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/sets/reminiscence"
         }
       ],
       "release_date": "2025-09-04T00:00:00+00:00"
@@ -570,6 +622,18 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/6v7jTE6nbqHTQ6Hte1UvkY"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/heim-single/1879494358"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0GPR9BX7N"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/sets/heim"
         }
       ],
       "release_date": "2025-10-10T00:00:00+00:00"
@@ -625,6 +689,18 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/4ARC06MQafSSiejvfHPTJw"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/metamorphosis-single/1842322314"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0FSSHYYQ1"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/metamorphosis-part-1"
         }
       ],
       "release_date": "2025-05-05T00:00:00+00:00"
@@ -658,7 +734,7 @@
       "tracks": [
         {
           "number": 1,
-          "title": "Re\u0301Union",
+          "title": "RéUnion",
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/01_logic_moon_memories_of_tomorrow_01_reunion.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/01_logic_moon_memories_of_tomorrow_01_reunion.mp3"
@@ -694,6 +770,22 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/7JuDYWfUR7jB2FtvUj793U"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/memories-of-tomorrow-ep/1852307450"
+        },
+        {
+          "name": "deezer",
+          "url": "https://www.deezer.com/de/album/854570502"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0G1VMD699"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/memories-of-tomorrow"
         }
       ],
       "release_date": "2025-06-03T00:00:00+00:00"
@@ -754,24 +846,24 @@
           "url": "https://logicmoon.bandcamp.com/album/atlas"
         },
         {
-          "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/atlas"
-        },
-        {
-          "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/atlas"
-        },
-        {
-          "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/clockworks"
-        },
-        {
-          "name": "bandcamp",
-          "url": "https://logicmoon.bandcamp.com/album/it-may-never-coming-back"
-        },
-        {
           "name": "spotify",
-          "url": "https://open.spotify.com/intl-de/album/4Vz7VMzLCYPmfg8v3gguav"
+          "url": "https://open.spotify.com/album/4Vz7VMzLCYPmfg8v3gguav"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/atlas-single/1815128687"
+        },
+        {
+          "name": "deezer",
+          "url": "https://www.deezer.com/de/album/758645881"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0F92QS7Z2"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/sets/atlas"
         }
       ],
       "release_date": "2025-03-08T00:00:00+00:00"
@@ -841,6 +933,22 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/track/4ACTvBLX61RTSr4sKIsf1F"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/glow-ep/1803080150"
+        },
+        {
+          "name": "deezer",
+          "url": "https://www.deezer.com/de/album/724974921"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0DZXSWLML"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/glow"
         }
       ],
       "release_date": "2025-01-06T00:00:00+00:00"
@@ -938,6 +1046,18 @@
         {
           "name": "spotify",
           "url": "https://open.spotify.com/intl-de/album/6NY5fLgoTaGBouYPXHnaTj"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/music-for-film-vol-1/1783088680"
+        },
+        {
+          "name": "deezer",
+          "url": "https://www.deezer.com/de/album/678796311"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0DPHR2J3N"
         }
       ],
       "release_date": "2024-11-25T00:00:00+00:00"

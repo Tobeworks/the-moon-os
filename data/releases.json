@@ -1,11 +1,58 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-08-24T10:32:46.906232+00:00",
+    "generated": "2026-08-29T09:05:08.894154+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
   "releases": [
+    {
+      "catalog": "TMR-015",
+      "artist": "Logic Moon",
+      "title": "The North",
+      "format": "EP",
+      "year": "",
+      "genre": "",
+      "about": "# The North\n\nTwo pieces from Logic Moon that face away from the light. The North is not a place on a map, it is a direction of travel \u2014 and everything that way gets colder, thinner, quieter.\n\nSpectre opens in half-light. Sustained tones that never quite resolve, something moving at the edge of hearing. The North follows it out into the open, where the air is thin enough to see through and the reverb runs longer than it should.\n\nEthereal, but not weightless. Something is underneath.",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_600.webp"
+        }
+      },
+      "platforms": [],
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Spectre",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/audio/128/01_spectre.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/audio/320/01_spectre.mp3"
+        },
+        {
+          "number": 2,
+          "title": "The North",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/audio/128/02_the_north.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/audio/320/02_the_north.mp3"
+        }
+      ],
+      "pushed_at": "2026-08-29T09:05:08.893501+00:00",
+      "release_date": "2026-09-04"
+    },
     {
       "catalog": "TMR-014",
       "artist": "Logic Moon & Henrik Meierkord",
@@ -13,7 +60,7 @@
       "format": "EP",
       "year": "",
       "genre": "",
-      "about": "# Spelrum\n\nA collaboration between Logic Moon and Henrik Meierkord — two ambient practitioners meeting in the space between control and drift. \"Spelrum\" is Swedish for room to move, leeway, the margin left open for something to happen. That's the record: two players trading restraint for restraint, until what's left is the gap between them.\n\n\"Tidsmarginal\" opens the EP as its emotional core — slow, aching tonal shifts measured against a clock that never quite resolves. \"Spelrum\" closes it under tension, low tones held taut rather than released, cello overtones bowing through the mix, the leeway of the title never fully cashed in.\n\nTwo tracks. No excess. The Moon Records at its coldest and most patient.",
+      "about": "# Spelrum\n\nA collaboration between Logic Moon and Henrik Meierkord \u2014 two ambient practitioners meeting in the space between control and drift. \"Spelrum\" is Swedish for room to move, leeway, the margin left open for something to happen. That's the record: two players trading restraint for restraint, until what's left is the gap between them.\n\n\"Tidsmarginal\" opens the EP as its emotional core \u2014 slow, aching tonal shifts measured against a clock that never quite resolves. \"Spelrum\" closes it under tension, low tones held taut rather than released, cello overtones bowing through the mix, the leeway of the title never fully cashed in.\n\nTwo tracks. No excess. The Moon Records at its coldest and most patient.",
       "cover": "https://cdn.the-moon-records.de/releases/tmr-014-logic-moon-henrik-meierkord-spelrum/artwork/cover_600.jpg",
       "artwork": {
         "1500": {
@@ -451,7 +498,7 @@
     {
       "catalog": "TMR-008",
       "artist": "Aethery Fields",
-      "title": "スライン",
+      "title": "\u30b9\u30e9\u30a4\u30f3",
       "format": "Single",
       "year": "",
       "genre": "",
@@ -734,7 +781,7 @@
       "tracks": [
         {
           "number": 1,
-          "title": "RéUnion",
+          "title": "Re\u0301Union",
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/128/01_logic_moon_memories_of_tomorrow_01_reunion.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-004-logic-moon-memories-of-tomorrow/audio/320/01_logic_moon_memories_of_tomorrow_01_reunion.mp3"

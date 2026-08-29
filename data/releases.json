@@ -33,7 +33,7 @@
           "webp": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_600.webp"
         }
       },
-      "platforms": [],
+      "platforms": [{"name": "bandcamp", "url":"https://logicmoon.bandcamp.com/album/the-north"}],
       "tracks": [
         {
           "number": 1,

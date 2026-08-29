@@ -17,6 +17,6 @@ See `workflows/release-workflow.md` for the full step-by-step process.
 Quick start:
 1. Copy `_template/` — rename to `pg-[NNN]-[artist]-[title]`
 2. Fill in `release.md` — this is the master record
-3. Run `./pg generate <path>` to create `release.json`
+3. Run `./tools/tmr generate <path>` to create `release.json`
 
 Status moves: `DEVELOPMENT → APPROVED → IN_PRODUCTION → RELEASED`

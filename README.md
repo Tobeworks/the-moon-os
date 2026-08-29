@@ -60,6 +60,7 @@ The visual system is documented and maintained in `/brand/the-moon-brand.md`.
 | File | Description |
 |---|---|
 | [README.md](README.md) | Entry point — load first |
+| [AGENTS.md](AGENTS.md) | How the repos fit together, canonical commands, pitfalls — read before changing anything |
 | [CHANGELOG.md](CHANGELOG.md) | Version history |
 
 **Brand**
@@ -80,7 +81,7 @@ The visual system is documented and maintained in `/brand/the-moon-brand.md`.
 | File | Description |
 |---|---|
 | [tools/README.md](tools/README.md) | Full toolchain documentation — setup, commands, asset structure |
-| [docs/promo-tool.md](docs/promo-tool.md) | Promo Tool — PocketBase admin, DJ workflow, download endpoints |
+| [plans/promo-tool.md](plans/promo-tool.md) | Promo Tool — PocketBase admin, DJ workflow, download endpoints |
 | [tools/tmr](tools/tmr) | CLI bootstrapper — entry point for all toolchain commands |
 | [tools/the-moon.py](tools/the-moon.py) | Main CLI — command registry |
 | [tools/commands/generate.py](tools/commands/generate.py) | `generate` — scan audio folder, write release.json |
@@ -88,6 +89,11 @@ The visual system is documented and maintained in `/brand/the-moon-brand.md`.
 | [tools/commands/convert.py](tools/commands/convert.py) | `convert` — WAV/AIFF → MP3 320k, ID3 tags, embedded cover |
 | [tools/commands/social.py](tools/commands/social.py) | `social` — render social media assets from release folder |
 | [tools/setup.sh](tools/setup.sh) | One-time setup — creates venv, installs deps |
+
+**External tools**
+| Repo | Description |
+|---|---|
+| `/Users/tobe/Sites/logic-moon.de/dsp_scraper` | DSP Scraper — finds a release on Spotify/Apple/Amazon/SoundCloud/Deezer/Beatport from its Bandcamp URL. Run weeks after release to fill in `platforms` in `data/releases.json` → [Phase 9](workflows/release-workflow.md#phase-10--dsp-links-nachtragen) |
 
 **Workflows**
 | File | Description |

@@ -129,6 +129,10 @@ Confidence unter 85 und fehlenden `matched_artist` manuell nachsehen.
   Quelle der Wahrheit für Website, Player und Promo-Mails.
 - Website-Code: Tailwind, **kein `<style>`-Block** außer für Keyframes.
   Die Startseite ist die Referenz für Layout und Typografie.
+- **Kein eigenes Verifizieren von rein visuellen/UI-Änderungen** (Build starten,
+  Screenshot, Seite aufrufen), wenn der Nutzer das selbst im Browser prüft.
+  Code-Korrektheit (Build/Typecheck) weiterhin verifizieren, aber nicht das
+  Ergebnis optisch begutachten, wenn er das ohnehin selbst tut.
 
 ---
 

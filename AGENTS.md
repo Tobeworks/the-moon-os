@@ -82,8 +82,7 @@ Release-Ablauf Schritt für Schritt: [workflows/release-workflow.md](workflows/r
 8. `data/releases.json` committen und pushen
 9. Submodule in `the-moon-web` nachziehen (siehe Datenfluss oben)
 
-DSP-Links folgen erst Wochen später:
-[Phase 9](workflows/release-workflow.md#phase-10--dsp-links-nachtragen)
+DSP-Links folgen erst Wochen später — Workflow siehe Abschnitt 8 unten.
 
 ---
 
@@ -148,3 +147,38 @@ Confidence unter 85 und fehlenden `matched_artist` manuell nachsehen.
 | Brand, Farben, Typografie | [brand/the-moon-brand.md](brand/the-moon-brand.md) |
 | Sound-Identität, A&R | [brand/sonic-brief.md](brand/sonic-brief.md) |
 | Texte für Bandcamp, Instagram | [workflows/platform-texts.md](workflows/platform-texts.md) |
+
+---
+
+## 8. DSP-Links nachtragen
+
+DSP-Links stehen erst Wochen nach dem Release fest. Vorgehen:
+
+**Voraussetzung:** Bandcamp-URL des Releases muss in `data/releases.json` unter
+`platforms` eingetragen sein.
+
+**Scraper ausführen:**
+
+```bash
+cd /Users/tobe/Sites/logic-moon.de/dsp_scraper
+uv run python cli.py "<bandcamp-url>" --stdout
+```
+
+**Ergebnis auswerten:**
+
+- Nur Treffer mit `confidence ≥ 85` und vorhandenem `matched_artist` übernehmen.
+- Plattformnamen exakt so verwenden wie vom Scraper geliefert: `spotify`,
+  `apple_music`, `amazon_music`, `deezer`, `beatport` — diese entsprechen den
+  Logo-Dateinamen in `the-moon-web/src/assets/dsp/`.
+- Kein Match → keinen Leer-Eintrag anlegen (blockiert echte Links, siehe Fallstricke).
+
+**Eintrag in `data/releases.json`:**
+
+```json
+{ "name": "spotify",     "url": "https://open.spotify.com/album/…" },
+{ "name": "apple_music", "url": "https://music.apple.com/…" },
+{ "name": "amazon_music","url": "https://music.amazon.com/albums/…" }
+```
+
+Einfach an die bestehende `platforms`-Liste anhängen — `bandcamp` und
+`soundcloud` bleiben, wo sie sind.

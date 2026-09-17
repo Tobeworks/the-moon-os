@@ -371,7 +371,19 @@
         },
         {
           "name": "soundcloud",
-          "url": "https://soundcloud.com/logic-moon/imncb"
+          "url": "https://soundcloud.com/logic-moon/sets/it-may-never-coming-back"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/album/5cRFOsGT9aFprlVqCbRstu"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/it-may-never-coming-back-single/6804971310"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0HGFG1CWK"
         }
       ],
       "release_date": "2026-01-02T00:00:00+00:00"

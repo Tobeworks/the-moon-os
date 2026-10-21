@@ -180,9 +180,9 @@ def _generate_release_md(data: dict, asset_path: Path):
 
 | Platform | URL |
 |---|---|
-| Bandcamp | {data['plaforms'].get('bandcamp') or '—'} |
-| Spotify | {data['plaforms'].get('spotify') or '—'} |
-| SoundCloud | {data['plaforms'].get('soundcloud') or '—'} |
+| Bandcamp | {(data.get('platforms') or data.get('plaforms') or {}).get('bandcamp') or '—'} |
+| Spotify | {(data.get('platforms') or data.get('plaforms') or {}).get('spotify') or '—'} |
+| SoundCloud | {(data.get('platforms') or data.get('plaforms') or {}).get('soundcloud') or '—'} |
 
 ---
 

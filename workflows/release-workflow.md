@@ -43,7 +43,7 @@ releases/
 ./tools/tmr convert ../the-moon-assets/tmr-NNN-artist-title
 ```
 
-**Output:** `export/mp3/` — fertige MP3s mit Tags, bereit für Bandcamp/plaforms
+**Output:** `export/mp3/` — fertige MP3s mit Tags, bereit für Bandcamp/platforms
 
 ---
 
@@ -143,7 +143,7 @@ allein bewirkt nichts — siehe [AGENTS.md](../AGENTS.md#5-fallstricke).
 ## PHASE 9 — ABSCHLUSS
 
 **8.1** Status in `release.md` auf `RELEASED` setzen
-**8.2** Release-Datum und alle URLs in `release.md` → `plaforms` eintragen
+**8.2** Release-Datum und alle URLs in `release.md` → `platforms` eintragen
 **8.3** Commit: `release(TMR-NNN): released`
 
 ---
@@ -230,7 +230,7 @@ tmr-NNN-artist-title/
 ├── audio/                  ← Masters (WAV/AIFF)
 ├── artwork/                ← Cover
 ├── export/
-│   ├── mp3/                ← plaforms-ready MP3s
+│   ├── mp3/                ← platforms-ready MP3s
 │   └── social/
 │       ├── square/         ← Instagram Posts
 │       └── reel/           ← Instagram Reels

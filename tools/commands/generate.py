@@ -146,7 +146,7 @@ def generate_release(release_path: str):
 
     # Derive folder slug for catalog number
     folder_name = path.name  
-    catalog_match = re.match(r'^(pg-\d+)', folder_name)
+    catalog_match = re.match(r'^(tmr-\d+)', folder_name, re.IGNORECASE)
     catalog = catalog_match.group(1).upper() if catalog_match else "TMR-XXX"
 
     # Build release.json — preserve existing manual values where set
@@ -164,7 +164,7 @@ def generate_release(release_path: str):
             "min_resolution": "3000x3000",
             "format": "PNG or TIFF"
         },
-        "plaforms": existing.get('plaforms') or {
+        "platforms": existing.get('platforms') or existing.get('plaforms') or {
             "bandcamp": None,
             "spotify": None,
             "soundcloud": None

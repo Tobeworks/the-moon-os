@@ -28,7 +28,7 @@
 |---|---|
 | A&R decision | |
 | Artwork approved | |
-| plaforms submitted | |
+| platforms submitted | |
 | Release date | |
 
 ## DISTRIBUTION

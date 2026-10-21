@@ -1,11 +1,58 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-08-29T09:05:08.894154+00:00",
+    "generated": "2026-10-21T08:16:05.717597+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
   "releases": [
+    {
+      "catalog": "TMR-016",
+      "artist": "Logic Moon & Diogene",
+      "title": "Sometimes In Your Dreams",
+      "format": "EP",
+      "year": "",
+      "genre": "",
+      "about": "# Sometimes In Your Dreams\n\nLogic Moon and Diogene return together, following up on \"Miracles\", their last release on Siril Records. Where that record looked up, this one closes its eyes.\n\nSometimes In Your Dreams stays in the half-awake zone: slow harmonic layers that drift in and out of focus, familiar shapes that dissolve when you try to hold them. Nothing is rushed, nothing quite arrives \u2014 it just keeps unfolding, the way a dream does before you remember it.\n\nHeart Blast is the second piece. The title promises more than the music shows off: a pulse far below the surface, warmth that swells without ever breaking into a beat.\n\nTwo pieces, just under ten minutes. Best heard late, and without interruption.",
+      "cover": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_600.jpg",
+      "artwork": {
+        "1500": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_1500.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_1500.webp"
+        },
+        "300": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_300.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_300.webp"
+        },
+        "3000": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_3000.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_3000.webp"
+        },
+        "600": {
+          "jpg": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_600.jpg",
+          "webp": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_600.webp"
+        }
+      },
+      "platforms": [],
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Sometimes In Your Dreams",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/128/01_sometimes_in_your_dreams.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/320/01_sometimes_in_your_dreams.mp3"
+        },
+        {
+          "number": 2,
+          "title": "Heart Blast",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/128/02_heart_blast.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/320/02_heart_blast.mp3"
+        }
+      ],
+      "pushed_at": "2026-10-21T08:16:05.717163+00:00",
+      "release_date": "2026-10-31"
+    },
     {
       "catalog": "TMR-015",
       "artist": "Logic Moon",
@@ -33,7 +80,12 @@
           "webp": "https://cdn.the-moon-records.de/releases/tmr-015-logic-moon-the-north/artwork/cover_600.webp"
         }
       },
-      "platforms": [{"name": "bandcamp", "url":"https://logicmoon.bandcamp.com/album/the-north"}],
+      "platforms": [
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/the-north"
+        }
+      ],
       "tracks": [
         {
           "number": 1,

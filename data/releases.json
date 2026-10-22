@@ -1,7 +1,7 @@
 {
   "$schema": "./releases.schema.json",
   "_meta": {
-    "generated": "2026-10-21T08:16:05.717597+00:00",
+    "generated": "2026-10-22T08:35:29.850895+00:00",
     "label": "The Moon Records",
     "version": "1"
   },
@@ -48,9 +48,16 @@
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/128/02_heart_blast.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/320/02_heart_blast.mp3"
+        },
+        {
+          "number": 3,
+          "title": "heart blast (slwd)_01",
+          "runtime": "",
+          "url": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/128/03_heart_blast_slwd_01.mp3",
+          "url_320": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/320/03_heart_blast_slwd_01.mp3"
         }
       ],
-      "pushed_at": "2026-10-21T08:16:05.717163+00:00",
+      "pushed_at": "2026-10-22T08:35:29.850657+00:00",
       "release_date": "2026-10-31"
     },
     {

@@ -143,6 +143,22 @@
         {
           "name": "bandcamp",
           "url": "https://logicmoon.bandcamp.com/album/spelrum"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/album/3n44fuZZ3eyZNR66oAcwNI"
+        },
+        {
+          "name": "apple_music",
+          "url": "https://music.apple.com/us/album/spelrum-single/6817846373"
+        },
+        {
+          "name": "amazon_music",
+          "url": "https://music.amazon.com/albums/B0HLLSZLCP"
+        },
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/logic-moon/spelrum"
         }
       ],
       "tracks": [

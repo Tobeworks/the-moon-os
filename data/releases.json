@@ -13,7 +13,7 @@
       "format": "EP",
       "year": "",
       "genre": "",
-      "about": "# Sometimes In Your Dreams\n\nLogic Moon and Diogene return together, following up on \"Miracles\", their last release on Siril Records. Where that record looked up, this one closes its eyes.\n\nSometimes In Your Dreams stays in the half-awake zone: slow harmonic layers that drift in and out of focus, familiar shapes that dissolve when you try to hold them. Nothing is rushed, nothing quite arrives \u2014 it just keeps unfolding, the way a dream does before you remember it.\n\nHeart Blast is the second piece. The title promises more than the music shows off: a pulse far below the surface, warmth that swells without ever breaking into a beat.\n\nTwo pieces, just under ten minutes. Best heard late, and without interruption.",
+      "about": "# Sometimes In Your Dreams\n\nLogic Moon and Diogene return together, following up on “Miracles”, their last release on Siril Records. Where that record looked up, this one closes its eyes.\n\n“Sometimes In Your Dreams” stays in the half-awake zone: slow harmonic layers that drift in and out of focus, familiar shapes that dissolve when you try to hold them. Nothing is rushed, nothing quite arrives, it just keeps unfolding, the way a dream does before you remember it.",
       "cover": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_600.jpg",
       "artwork": {
         "1500": {
@@ -33,7 +33,11 @@
           "webp": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/artwork/cover_600.webp"
         }
       },
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "bandcamp",
+          "url": "https://logicmoon.bandcamp.com/album/sometimes-in-your-dreams"
+        }],
       "tracks": [
         {
           "number": 1,
@@ -51,14 +55,14 @@
         },
         {
           "number": 3,
-          "title": "heart blast (slwd)_01",
+          "title": "Heart Blast (Slwd)",
           "runtime": "",
           "url": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/128/03_heart_blast_slwd_01.mp3",
           "url_320": "https://cdn.the-moon-records.de/releases/tmr-016-logic-moon-diogene-sometimes-in-your-dreams/audio/320/03_heart_blast_slwd_01.mp3"
         }
       ],
       "pushed_at": "2026-10-22T08:35:29.850657+00:00",
-      "release_date": "2026-10-31"
+      "release_date": "2026-10-30"
     },
     {
       "catalog": "TMR-015",
